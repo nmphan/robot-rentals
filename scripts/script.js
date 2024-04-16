@@ -12,7 +12,7 @@ You are encouraged to use the provided naming convention for ease of review.
 // INSERT YOUR CODE HERE
 let modelName = "Model XYZ";
 let duration = 0;
-let totalCost = parseFloat(0);
+let totalCost = 0;
 
 
 /****************** helper function ******************/
